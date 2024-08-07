@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
-
+// aqui você troca as cores do projeto como cor de fundo cor do bortão, cor do textos.
 :root {
     --cor-de-fundo: #1E1E1E;
     --verde: #6FFF57;
@@ -35,7 +35,7 @@ body {
 .titulo-principal span {
     color: var(--verde);
 }
-
+//caso queira trocar as cor da escrita dos botão
 .botao {
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
